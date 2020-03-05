@@ -1,0 +1,40 @@
+﻿  stb_impl.cpp
+C:\Users\acdc1\Documents\Courses\Networking\Practicle Midterm\external\stbs\stb_include.h(56,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  see declaration of 'fopen'
+C:\Users\acdc1\Documents\Courses\Networking\Practicle Midterm\external\stbs\stb_include.h(133,85): warning C4244:  'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\acdc1\Documents\Courses\Networking\Practicle Midterm\external\stbs\stb_include.h(133,77): warning C4244:  'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\acdc1\Documents\Courses\Networking\Practicle Midterm\external\stbs\stb_include.h(139,79): warning C4244:  'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\acdc1\Documents\Courses\Networking\Practicle Midterm\external\stbs\stb_include.h(139,71): warning C4244:  'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\acdc1\Documents\Courses\Networking\Practicle Midterm\external\stbs\stb_include.h(193,31): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message :  see declaration of 'strcpy'
+C:\Users\acdc1\Documents\Courses\Networking\Practicle Midterm\external\stbs\stb_include.h(195,26): warning C4996:  'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message :  see declaration of 'strcat'
+C:\Users\acdc1\Documents\Courses\Networking\Practicle Midterm\external\stbs\stb_include.h(199,27): warning C4996:  'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message :  see declaration of 'strcat'
+C:\Users\acdc1\Documents\Courses\Networking\Practicle Midterm\external\stbs\stb_include.h(203,46): warning C4996:  'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message :  see declaration of 'strcat'
+C:\Users\acdc1\Documents\Courses\Networking\Practicle Midterm\external\stbs\stb_include.h(204,27): warning C4996:  'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message :  see declaration of 'strcat'
+C:\Users\acdc1\Documents\Courses\Networking\Practicle Midterm\external\stbs\stb_include.h(206,27): warning C4996:  'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message :  see declaration of 'strcat'
+C:\Users\acdc1\Documents\Courses\Networking\Practicle Midterm\external\stbs\stb_include.h(215,39): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message :  see declaration of 'strcpy'
+C:\Users\acdc1\Documents\Courses\Networking\Practicle Midterm\external\stbs\stb_include.h(216,26): warning C4996:  'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message :  see declaration of 'strcat'
+C:\Users\acdc1\Documents\Courses\Networking\Practicle Midterm\external\stbs\stb_include.h(217,43): warning C4996:  'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message :  see declaration of 'strcat'
+C:\Users\acdc1\Documents\Courses\Networking\Practicle Midterm\external\stbs\stb_include.h(228,30): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message :  see declaration of 'strcpy'
+C:\Users\acdc1\Documents\Courses\Networking\Practicle Midterm\external\stbs\stb_include.h(230,23): warning C4996:  'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message :  see declaration of 'strcat'
+C:\Users\acdc1\Documents\Courses\Networking\Practicle Midterm\external\stbs\stb_include.h(234,60): warning C4996:  'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message :  see declaration of 'strcat'
+C:\Users\acdc1\Documents\Courses\Networking\Practicle Midterm\external\stbs\stb_include.h(257,36): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message :  see declaration of 'strcpy'
+C:\Users\acdc1\Documents\Courses\Networking\Practicle Midterm\external\stbs\stb_include.h(271,45): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message :  see declaration of 'strcpy'
+C:\Users\acdc1\Documents\Courses\Networking\Practicle Midterm\external\stbs\stb_include.h(272,29): warning C4996:  'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message :  see declaration of 'strcat'
+C:\Users\acdc1\Documents\Courses\Networking\Practicle Midterm\external\stbs\stb_include.h(273,24): warning C4996:  'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message :  see declaration of 'strcat'
+  Stbs.vcxproj -> C:\Users\acdc1\Documents\Courses\Networking\Practicle Midterm\external\stbs\bin\Release-windows-x86_64\Stbs\Stbs.lib

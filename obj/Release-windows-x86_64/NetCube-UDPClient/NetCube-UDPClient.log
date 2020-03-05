@@ -1,0 +1,15 @@
+﻿  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(130,1): warning C4005:  'APIENTRY': macro redefinition
+C:\Users\acdc1\Documents\Courses\Networking\Practicle Midterm\external\glad\include\glad\glad.h(37): message :  see previous definition of 'APIENTRY'
+C:\Users\acdc1\Documents\Courses\Networking\Practicle Midterm\projects\NetCube-UDPClient\src\main.cpp(120,13): warning C4305:  '+=': truncation from 'double' to 'float'
+C:\Users\acdc1\Documents\Courses\Networking\Practicle Midterm\projects\NetCube-UDPClient\src\main.cpp(123,13): warning C4305:  '-=': truncation from 'double' to 'float'
+C:\Users\acdc1\Documents\Courses\Networking\Practicle Midterm\projects\NetCube-UDPClient\src\main.cpp(126,13): warning C4305:  '+=': truncation from 'double' to 'float'
+C:\Users\acdc1\Documents\Courses\Networking\Practicle Midterm\projects\NetCube-UDPClient\src\main.cpp(129,13): warning C4305:  '-=': truncation from 'double' to 'float'
+C:\Users\acdc1\Documents\Courses\Networking\Practicle Midterm\projects\NetCube-UDPClient\src\main.cpp(442,17): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\acdc1\Documents\Courses\Networking\Practicle Midterm\projects\NetCube-UDPClient\src\main.cpp(449,13): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\acdc1\Documents\Courses\Networking\Practicle Midterm\projects\NetCube-UDPClient\src\main.cpp(469,1): warning C4267:  'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\acdc1\Documents\Courses\Networking\Practicle Midterm\projects\NetCube-UDPClient\src\main.cpp(476,26): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\acdc1\Documents\Courses\Networking\Practicle Midterm\projects\NetCube-UDPClient\src\main.cpp(63): warning C4715:  'initGLAD': not all control paths return a value
+  NetCube-UDPClient.vcxproj -> C:\Users\acdc1\Documents\Courses\Networking\Practicle Midterm\projects\NetCube-UDPClient\..\..\bin\Release-windows-x86_64\NetCube-UDPClient\NetCube-UDPClient.exe
+  1 File(s) copied
+  3 File(s) copied

@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(130,1): warning C4005:  'APIENTRY': macro redefinition
+C:\Users\acdc1\Documents\Courses\Networking\Practicle Midterm\external\glad\include\glad\glad.h(37): message :  see previous definition of 'APIENTRY'
+C:\Users\acdc1\Documents\Courses\Networking\Practicle Midterm\projects\NetCube-UDPServer\src\main.cpp(159,14): warning C4305:  '+=': truncation from 'double' to 'float'
+C:\Users\acdc1\Documents\Courses\Networking\Practicle Midterm\projects\NetCube-UDPServer\src\main.cpp(162,14): warning C4305:  '-=': truncation from 'double' to 'float'
+C:\Users\acdc1\Documents\Courses\Networking\Practicle Midterm\projects\NetCube-UDPServer\src\main.cpp(165,14): warning C4305:  '+=': truncation from 'double' to 'float'
+C:\Users\acdc1\Documents\Courses\Networking\Practicle Midterm\projects\NetCube-UDPServer\src\main.cpp(168,14): warning C4305:  '-=': truncation from 'double' to 'float'
+C:\Users\acdc1\Documents\Courses\Networking\Practicle Midterm\projects\NetCube-UDPServer\src\main.cpp(491,17): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\acdc1\Documents\Courses\Networking\Practicle Midterm\projects\NetCube-UDPServer\src\main.cpp(102): warning C4715:  'initGLAD': not all control paths return a value
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  NetCube-UDPServer.vcxproj -> C:\Users\acdc1\Documents\Courses\Networking\Practicle Midterm\projects\NetCube-UDPServer\..\..\bin\Debug-windows-x86_64\NetCube-UDPServer\NetCube-UDPServer.exe
+  1 File(s) copied
+  3 File(s) copied
